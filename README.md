@@ -1,2 +1,2 @@
-# deca
+# DECA
 Docker Environment Core Arhitecture
